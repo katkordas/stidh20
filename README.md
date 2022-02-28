@@ -13,9 +13,9 @@ The repository contains the following files:
 * [STIDH report](#setup): Report I wrote for class
 
 The folder "Results" contains the following output from classifier.py:
-* [distribution_genre.png](distribution_genre.png): Bar plot showing the genre distribution of comb_dataset.csv
-* [all_pred_results.txt](all_pred_results.txt): Accuracy scores (in %) for Gaussian Naive Bayes (GNB), Linear Support Vector Classification (Linear SVC) and k-Nearest Neighbours (KNN) for audio features and lyrics
-* [audio_best_predictors.txt](audio_best_predictors.txt): Accuracy scores for audio features for GNB, Linear SVC, and KNN for 26, 25, 20, 15 and 10 best predictors
-* [audio_results.png](audio_results.png): Bar plot showing the accuracy scores for GNB, Linear SVC, and KNN for 26 best audio predictors
-* [lyrics_best_predictors.txt](lyrics_best_predictors.txt): Accuracy scores for lyrics features for 284, 250, 200 and 100 best predictors
-* [lyrics_results.png](lyrics_results.png): Bar plot showing the accuracy scores for GNB, Linear SVC, and KNN for 250 best lyrics predictors
+* [distribution_genre.png](/Results/distribution_genre.png): Bar plot showing the genre distribution of comb_dataset.csv
+* [all_pred_results.txt](/Results/all_pred_results.txt): Accuracy scores (in %) for Gaussian Naive Bayes (GNB), Linear Support Vector Classification (Linear SVC) and k-Nearest Neighbours (KNN) for audio features and lyrics
+* [audio_best_predictors.txt](/Results/audio_best_predictors.txt): Accuracy scores for audio features for GNB, Linear SVC, and KNN for 26, 25, 20, 15 and 10 best predictors
+* [audio_results.png](/Results/audio_results.png): Bar plot showing the accuracy scores for GNB, Linear SVC, and KNN for 26 best audio predictors
+* [lyrics_best_predictors.txt](/Results/lyrics_best_predictors.txt): Accuracy scores for lyrics features for 284, 250, 200 and 100 best predictors
+* [lyrics_results.png](/Results/lyrics_results.png): Bar plot showing the accuracy scores for GNB, Linear SVC, and KNN for 250 best lyrics predictors
