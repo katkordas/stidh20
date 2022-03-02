@@ -1,5 +1,5 @@
 ## Classifying music genre with classical machine learning - Special Topics in Digital Humanities 2019/2020 project
-This repository the files submitted to the Special Topics in Digital Humanities 2019/2020 (ST) course at Leiden University. 
+This repository contains files submitted to the Special Topics in Digital Humanities 2019/2020 (ST) course at Leiden University. 
 
 Author: Kat Kołodziejczyk.
 
