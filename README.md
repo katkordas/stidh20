@@ -11,7 +11,7 @@ The repository contains the following files:
 * [comb_dataset.csv](comb_dataset.csv): csv file with audio features and lyrics per song (50000 most frequent lyrics (rows from "i" to "kad"): frequency of word in given song, 0 if not present)
 * [Audio feature names](audio_feature_names.txt): txt file with the name of the 49 audio features used in the classification
 * [Classifier](classifier.py): The main Python code
-* [STIDH report](#setup): Report I wrote for class
+* [STIDH report](st_report.pdf): Report I wrote for class
 
 The folder "Results" contains the following output from classifier.py:
 * [distribution_genre.png](/Results/distribution_genre.png): Bar plot showing the genre distribution of comb_dataset.csv
